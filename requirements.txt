@@ -1,0 +1,12 @@
+pandas
+numpy
+yfinance
+beautifulsoup4
+requests
+nltk
+scikit-learn
+seaborn
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0 
+ 
