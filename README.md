@@ -15,6 +15,7 @@ Annotate major genomic events on the stock price chart.
 
 Technologies Used
 
+
 Python: The programming language for data fetching, processing, and visualization.
 Libraries:
 feedparser: Parse RSS feeds to fetch genomic events.
@@ -25,3 +26,6 @@ Data Sources:
 Genomic event feed: https://genome.cshlp.org/rss/
 
 Financial data: Yahoo Finance.
+
+
+![moderna_stock_events](https://github.com/user-attachments/assets/1f290edc-d27d-4f6b-94d1-2154da7fa5a3)
