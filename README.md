@@ -21,5 +21,7 @@ feedparser: Parse RSS feeds to fetch genomic events.
 yfinance: Fetch stock data from Yahoo Finance.
 matplotlib: Visualize stock trends with genomic events.
 Data Sources:
+
 Genomic event feed: https://genome.cshlp.org/rss/
+
 Financial data: Yahoo Finance.
